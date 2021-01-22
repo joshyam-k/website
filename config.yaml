@@ -1,4 +1,4 @@
-title: Researcher
+title: Blog
 baseURL: https://example.com
 theme: hugo-researcher
 disableKinds:
@@ -12,7 +12,7 @@ params:
   description: A simple monospaced resume theme for Hugo.
   favicon: favicon.ico
   footer:
-    text: By Olivier Roques
+    text: By Josh Yamamoto
     url: https://github.com/ojroques/hugo-researcher
 permalinks:
   /: /:filename
