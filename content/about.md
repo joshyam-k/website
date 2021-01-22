@@ -6,8 +6,7 @@ title: About
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+My name is Josh Yamamoto and I am a Math/Statistics major at Reed College.
 
 ## Research Interest
 
