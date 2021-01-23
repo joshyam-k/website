@@ -8,6 +8,8 @@ title: About
 
 My name is Josh Yamamoto and I am a Math/Statistics major at Reed College.
 
+![My picture](/IMG_1777 3.png)
+
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
