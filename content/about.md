@@ -4,7 +4,7 @@ title: About
 
 ## About Me
 
-{{< figure class="avatar" src="/IMG_1777 3.jpg" >}}
+{{< figure class="avatar" src = "/IMG_1777 3.jpg" >}}
 
 My name is Josh Yamamoto and I am a Math/Statistics major at Reed College.
 
